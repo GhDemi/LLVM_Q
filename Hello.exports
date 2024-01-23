@@ -1,3 +1,0 @@
-LIBRARY LLVMHello
-EXPORTS
-llvmGetPassPluginInfo
